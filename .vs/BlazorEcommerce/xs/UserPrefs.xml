@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C8C62503-41A1-4D9D-9595-CDF289FD4ADC}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BlazorEcommerce.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorEcommerce" expanded="True">
+            <Node name="BlazorEcommerce.Client" expanded="True">
+              <Node name="Pages" expanded="True" />
+            </Node>
+            <Node name="BlazorEcommerce.Server" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+            <Node name="BlazorEcommerce.Shared" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
